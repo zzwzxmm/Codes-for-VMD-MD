@@ -1,2 +1,4 @@
-TCL scripts for VMD analysis and graphics;
-processing data from MD simulations;
+Scripts for VMD modeling, analysis and graphics;
+Processing data from MD simulations;
+MD simulation setup codes;
+etc;
